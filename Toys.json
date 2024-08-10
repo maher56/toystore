@@ -1,0 +1,163 @@
+[
+    {
+        "name":"Teddy Bear",
+        "price":"29.0",
+        "type":"stuffed",
+        "img":"./images/bear.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Happy Flower",
+        "price":"38.0",
+        "type":"wooden",
+        "img":"../images/happy-flower.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Lift Machine",
+        "price":"24.0",
+        "type":"wooden",
+        "img":"../images/machine.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"wooden Camera",
+        "price":"32.0",
+        "type":"wooden",
+        "img":"../images/camera.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Little Rabbit",
+        "price":"16.0",
+        "type":"wooden",
+        "img":"../images/rabbit.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Caterpillar",
+        "price":"18.0",
+        "type":"wooden",
+        "img":"../images/caterpillar.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Christmas Deer",
+        "price":"19.0",
+        "type":"stuffed",
+        "img":"../images/christmas-deer.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Cute Dog",
+        "price":"23.0",
+        "type":"stuffed",
+        "img":"../images/cute-dog.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Grey Elephant",
+        "price":"45.0",
+        "type":"stuffed",
+        "img":"../images/elephant.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Little Friend",
+        "price":"27.0",
+        "type":"stuffed",
+        "img":"../images/friend.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Funny Clown",
+        "price":"36.0",
+        "type":"stuffed",
+        "img":"../images/funny-clown.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Mega Plush Toy",
+        "price":"38.0",
+        "type":"stuffed",
+        "img":"../images/mega.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Pluto Yellow Dog",
+        "price":"29.0",
+        "type":"stuffed",
+        "img":"../images/pluto-dog.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Rainbow Truck",
+        "price":"49.0",
+        "type":"wooden",
+        "img":"../images/truck.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"wooden Tractor",
+        "price":"22.0",
+        "type":"wooden",
+        "img":"../images/tractor.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    },{
+        "name":"Happy Dog",
+        "price":"20.0",
+        "type":"wooden",
+        "img":"../images/happy-dog.png",
+        "description":"",
+        "width":"",
+        "height":"",
+        "Length":"",
+        "weight":""
+    }
+]
